@@ -1,0 +1,27 @@
+Problema do Caixeiro Viajante
+
+Trabalho de TESI2 - Haroldo Ramirez e Emanuel Victor
+
+Algortimo Genético
+
+Segue a Teoria da evolução, uma parte de computação evolucionária.
+Usa a visão de evoluir para buscar respostas em determinados problemas.
+Mutação é quando um gene muda para destagnar a população para poder conseguir sobreviver.
+
+
+Genética
+
+Operador 1 Seleção: existem métodos de seleção como da roleta(força bruta), torneio(força bruta), podemos inventar o nosso método de seleção também ou escolher um algitmo como a da ant colony(formiga) dessa forma faríamos um algoritmo híbrido entra o algoritmo da formiga e o algoritmo genético.
+
+Operador 2 Crossover(cruzamento): quando selecionado cruza com o restante da população. Assim como vários tipos de seleções existem vários tipos de crossover como ox, cx, dois ponto, um ponto, multiponto e podemos inventar o nosso também.
+
+Operador 3 Mutação: Quando a população não consegue mais evoluir para alcancar o fitness ela sobre uma mutação para que ela possa atingir a evolução para as próximas populações. Fitness é a taxa de adaptação ou nota que o indivíduo tem para sobreviver.
+
+Entender o problema do caixeiro viajante.
+
+O cara passa por várias cidades com o menor tempo ou menor rota.
+
+(continua no evernote)
+
+
+

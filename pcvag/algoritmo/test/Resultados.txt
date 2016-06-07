@@ -1,0 +1,170 @@
+Com populacao de 25 e Crossover OX Melhorou 169   Iniciou em 05:05:32 e terminou em 05:05:43
+Com populacao de 50 e Crossover OX Melhorou 246   Iniciou em 05:05:43 e terminou em 05:06:22
+Com populacao de 75 e Crossover OX Melhorou 297   Iniciou em 05:06:22 e terminou em 05:07:46
+Com populacao de 100 e Crossover OX Melhorou 321   Iniciou em 05:07:46 e terminou em 05:10:14
+Com populacao de 125 e Crossover OX Melhorou 360   Iniciou em 05:10:14 e terminou em 05:14:06
+Com populacao de 25 e Crossover PMX Melhorou 154   Iniciou em 05:14:06 e terminou em 05:14:17
+Com populacao de 50 e Crossover PMX Melhorou 284   Iniciou em 05:14:17 e terminou em 05:14:56
+Com populacao de 75 e Crossover PMX Melhorou 368   Iniciou em 05:14:56 e terminou em 05:16:21
+Com populacao de 100 e Crossover PMX Melhorou 324   Iniciou em 05:16:21 e terminou em 05:18:48
+Com populacao de 125 e Crossover PMX Melhorou 344   Iniciou em 05:18:48 e terminou em 05:22:37
+-----------------------------------------------------------------------------------------------
+     A melhor rota seria = 0 1 6 5 2 4 3 15 17 16 14 13 12 11 10 9 8 7; com fitness = 200
+A melhor rota encontrada = 15 8 17 3 4 0 6 10 5 7 9 13 12 16 2 11 14 1; com fitness = 299
+Geração 200
+Crossover OX
+Teste com tamanho de população 50
+-----------------------------------------------------------------------------------------------
+Com populacao de 25 e Crossover OX Melhorou 153   Iniciou em 05:22:37 e terminou em 05:22:47
+Com populacao de 50 e Crossover OX Melhorou 228   Iniciou em 05:22:47 e terminou em 05:23:25
+Com populacao de 75 e Crossover OX Melhorou 320   Iniciou em 05:23:25 e terminou em 05:24:48
+Com populacao de 100 e Crossover OX Melhorou 308   Iniciou em 05:24:48 e terminou em 05:27:15
+Com populacao de 125 e Crossover OX Melhorou 316   Iniciou em 05:27:15 e terminou em 05:31:04
+Com populacao de 25 e Crossover PMX Melhorou 176   Iniciou em 05:31:04 e terminou em 05:31:14
+Com populacao de 50 e Crossover PMX Melhorou 251   Iniciou em 05:31:14 e terminou em 05:31:52
+Com populacao de 75 e Crossover PMX Melhorou 341   Iniciou em 05:31:52 e terminou em 05:33:16
+Com populacao de 100 e Crossover PMX Melhorou 335   Iniciou em 05:33:16 e terminou em 05:35:44
+Com populacao de 125 e Crossover PMX Melhorou 342   Iniciou em 05:35:44 e terminou em 05:39:35
+-----------------------------------------------------------------------------------------------
+     A melhor rota seria = 0 1 6 5 2 4 3 15 17 16 14 13 12 11 10 9 8 7; com fitness = 200
+A melhor rota encontrada = 8 0 4 1 15 5 6 17 11 16 7 9 10 12 3 13 14 2; com fitness = 337
+Geração 982
+Crossover PMX
+Teste com tamanho de população 75
+-----------------------------------------------------------------------------------------------
+Com populacao de 25 e Crossover OX Melhorou 134   Iniciou em 05:39:35 e terminou em 05:39:46
+Com populacao de 50 e Crossover OX Melhorou 249   Iniciou em 05:39:46 e terminou em 05:40:24
+Com populacao de 75 e Crossover OX Melhorou 291   Iniciou em 05:40:24 e terminou em 05:41:47
+Com populacao de 100 e Crossover OX Melhorou 318   Iniciou em 05:41:47 e terminou em 05:44:13
+Com populacao de 125 e Crossover OX Melhorou 318   Iniciou em 05:44:13 e terminou em 05:48:03
+Com populacao de 25 e Crossover PMX Melhorou 149   Iniciou em 05:48:03 e terminou em 05:48:13
+Com populacao de 50 e Crossover PMX Melhorou 293   Iniciou em 05:48:13 e terminou em 05:48:52
+Com populacao de 75 e Crossover PMX Melhorou 337   Iniciou em 05:48:52 e terminou em 05:50:15
+Com populacao de 100 e Crossover PMX Melhorou 322   Iniciou em 05:50:15 e terminou em 05:52:42
+Com populacao de 125 e Crossover PMX Melhorou 377   Iniciou em 05:52:42 e terminou em 05:56:32
+-----------------------------------------------------------------------------------------------
+     A melhor rota seria = 0 1 6 5 2 4 3 15 17 16 14 13 12 11 10 9 8 7; com fitness = 200
+A melhor rota encontrada = 14 13 1 11 4 2 9 3 15 5 8 10 12 6 16 7 0 17; com fitness = 333
+Geração 405
+Crossover PMX
+Teste com tamanho de população 75
+-----------------------------------------------------------------------------------------------
+Com populacao de 25 e Crossover OX Melhorou 154   Iniciou em 05:56:32 e terminou em 05:56:42
+Com populacao de 50 e Crossover OX Melhorou 225   Iniciou em 05:56:42 e terminou em 05:57:20
+Com populacao de 75 e Crossover OX Melhorou 282   Iniciou em 05:57:20 e terminou em 05:58:43
+Com populacao de 100 e Crossover OX Melhorou 299   Iniciou em 05:58:43 e terminou em 06:01:10
+Com populacao de 125 e Crossover OX Melhorou 311   Iniciou em 06:01:10 e terminou em 06:04:59
+Com populacao de 25 e Crossover PMX Melhorou 159   Iniciou em 06:04:59 e terminou em 06:05:10
+Com populacao de 50 e Crossover PMX Melhorou 281   Iniciou em 06:05:10 e terminou em 06:05:48
+Com populacao de 75 e Crossover PMX Melhorou 330   Iniciou em 06:05:48 e terminou em 06:07:11
+Com populacao de 100 e Crossover PMX Melhorou 310   Iniciou em 06:07:11 e terminou em 06:09:38
+Com populacao de 125 e Crossover PMX Melhorou 303   Iniciou em 06:09:38 e terminou em 06:13:28
+-----------------------------------------------------------------------------------------------
+     A melhor rota seria = 0 1 6 5 2 4 3 15 17 16 14 13 12 11 10 9 8 7; com fitness = 200
+A melhor rota encontrada = 11 7 3 9 12 5 0 16 14 2 6 10 8 17 4 13 1 15; com fitness = 328
+Geração 998
+Crossover PMX
+Teste com tamanho de população 75
+-----------------------------------------------------------------------------------------------
+Com populacao de 25 e Crossover OX Melhorou 125   Iniciou em 06:13:28 e terminou em 06:13:38
+Com populacao de 50 e Crossover OX Melhorou 251   Iniciou em 06:13:38 e terminou em 06:14:16
+Com populacao de 75 e Crossover OX Melhorou 309   Iniciou em 06:14:16 e terminou em 06:15:40
+Com populacao de 100 e Crossover OX Melhorou 321   Iniciou em 06:15:40 e terminou em 06:18:07
+Com populacao de 125 e Crossover OX Melhorou 353   Iniciou em 06:18:07 e terminou em 06:21:55
+Com populacao de 25 e Crossover PMX Melhorou 156   Iniciou em 06:21:55 e terminou em 06:22:06
+Com populacao de 50 e Crossover PMX Melhorou 270   Iniciou em 06:22:06 e terminou em 06:22:44
+Com populacao de 75 e Crossover PMX Melhorou 293   Iniciou em 06:22:44 e terminou em 06:24:07
+Com populacao de 100 e Crossover PMX Melhorou 325   Iniciou em 06:24:07 e terminou em 06:26:35
+Com populacao de 125 e Crossover PMX Melhorou 352   Iniciou em 06:26:35 e terminou em 06:30:23
+-----------------------------------------------------------------------------------------------
+     A melhor rota seria = 0 1 6 5 2 4 3 15 17 16 14 13 12 11 10 9 8 7; com fitness = 200
+A melhor rota encontrada = 7 2 6 9 15 3 1 4 17 12 13 10 16 11 5 8 14 0; com fitness = 296
+Geração 958
+Crossover OX
+Teste com tamanho de população 100
+-----------------------------------------------------------------------------------------------
+Com populacao de 25 e Crossover OX Melhorou 155   Iniciou em 06:30:23 e terminou em 06:30:33
+Com populacao de 50 e Crossover OX Melhorou 287   Iniciou em 06:30:33 e terminou em 06:31:11
+Com populacao de 75 e Crossover OX Melhorou 293   Iniciou em 06:31:11 e terminou em 06:32:35
+Com populacao de 100 e Crossover OX Melhorou 320   Iniciou em 06:32:35 e terminou em 06:35:02
+Com populacao de 125 e Crossover OX Melhorou 311   Iniciou em 06:35:02 e terminou em 06:38:50
+Com populacao de 25 e Crossover PMX Melhorou 168   Iniciou em 06:38:50 e terminou em 06:39:00
+Com populacao de 50 e Crossover PMX Melhorou 252   Iniciou em 06:39:00 e terminou em 06:39:38
+Com populacao de 75 e Crossover PMX Melhorou 330   Iniciou em 06:39:38 e terminou em 06:41:02
+Com populacao de 100 e Crossover PMX Melhorou 336   Iniciou em 06:41:02 e terminou em 06:43:28
+Com populacao de 125 e Crossover PMX Melhorou 363   Iniciou em 06:43:28 e terminou em 06:47:17
+-----------------------------------------------------------------------------------------------
+     A melhor rota seria = 0 1 6 5 2 4 3 15 17 16 14 13 12 11 10 9 8 7; com fitness = 200
+A melhor rota encontrada = 14 11 17 16 13 5 6 3 4 12 1 8 7 15 0 10 9 2; com fitness = 338
+Geração 953
+Crossover PMX
+Teste com tamanho de população 25
+-----------------------------------------------------------------------------------------------
+Com populacao de 25 e Crossover OX Melhorou 159   Iniciou em 06:47:17 e terminou em 06:47:28
+Com populacao de 50 e Crossover OX Melhorou 249   Iniciou em 06:47:28 e terminou em 06:48:06
+Com populacao de 75 e Crossover OX Melhorou 297   Iniciou em 06:48:06 e terminou em 06:49:29
+Com populacao de 100 e Crossover OX Melhorou 337   Iniciou em 06:49:29 e terminou em 06:51:56
+Com populacao de 125 e Crossover OX Melhorou 338   Iniciou em 06:51:56 e terminou em 06:55:46
+Com populacao de 25 e Crossover PMX Melhorou 138   Iniciou em 06:55:46 e terminou em 06:55:57
+Com populacao de 50 e Crossover PMX Melhorou 264   Iniciou em 06:55:57 e terminou em 06:56:35
+Com populacao de 75 e Crossover PMX Melhorou 363   Iniciou em 06:56:35 e terminou em 06:57:59
+Com populacao de 100 e Crossover PMX Melhorou 319   Iniciou em 06:57:59 e terminou em 07:00:25
+Com populacao de 125 e Crossover PMX Melhorou 364   Iniciou em 07:00:25 e terminou em 07:04:14
+-----------------------------------------------------------------------------------------------
+     A melhor rota seria = 0 1 6 5 2 4 3 15 17 16 14 13 12 11 10 9 8 7; com fitness = 200
+A melhor rota encontrada = 2 0 16 5 3 6 8 7 1 10 17 4 14 12 15 9 13 11; com fitness = 324
+Geração 896
+Crossover OX
+Teste com tamanho de população 100
+-----------------------------------------------------------------------------------------------
+Com populacao de 25 e Crossover OX Melhorou 155   Iniciou em 07:04:14 e terminou em 07:04:24
+Com populacao de 50 e Crossover OX Melhorou 256   Iniciou em 07:04:24 e terminou em 07:05:02
+Com populacao de 75 e Crossover OX Melhorou 273   Iniciou em 07:05:02 e terminou em 07:06:25
+Com populacao de 100 e Crossover OX Melhorou 314   Iniciou em 07:06:25 e terminou em 07:08:52
+Com populacao de 125 e Crossover OX Melhorou 326   Iniciou em 07:08:52 e terminou em 07:12:40
+Com populacao de 25 e Crossover PMX Melhorou 169   Iniciou em 07:12:40 e terminou em 07:12:51
+Com populacao de 50 e Crossover PMX Melhorou 275   Iniciou em 07:12:51 e terminou em 07:13:29
+Com populacao de 75 e Crossover PMX Melhorou 305   Iniciou em 07:13:29 e terminou em 07:14:52
+Com populacao de 100 e Crossover PMX Melhorou 325   Iniciou em 07:14:52 e terminou em 07:17:19
+Com populacao de 125 e Crossover PMX Melhorou 369   Iniciou em 07:17:19 e terminou em 07:21:08
+-----------------------------------------------------------------------------------------------
+     A melhor rota seria = 0 1 6 5 2 4 3 15 17 16 14 13 12 11 10 9 8 7; com fitness = 200
+A melhor rota encontrada = 8 3 0 2 14 4 9 5 12 13 7 10 16 11 6 17 15 1; com fitness = 319
+Geração 40
+Crossover OX
+Teste com tamanho de população 25
+-----------------------------------------------------------------------------------------------
+Com populacao de 25 e Crossover OX Melhorou 174   Iniciou em 07:21:08 e terminou em 07:21:19
+Com populacao de 50 e Crossover OX Melhorou 239   Iniciou em 07:21:19 e terminou em 07:21:57
+Com populacao de 75 e Crossover OX Melhorou 297   Iniciou em 07:21:57 e terminou em 07:23:21
+Com populacao de 100 e Crossover OX Melhorou 338   Iniciou em 07:23:21 e terminou em 07:25:48
+Com populacao de 125 e Crossover OX Melhorou 367   Iniciou em 07:25:48 e terminou em 07:29:37
+Com populacao de 25 e Crossover PMX Melhorou 174   Iniciou em 07:29:37 e terminou em 07:29:48
+Com populacao de 50 e Crossover PMX Melhorou 288   Iniciou em 07:29:48 e terminou em 07:30:26
+Com populacao de 75 e Crossover PMX Melhorou 327   Iniciou em 07:30:26 e terminou em 07:31:49
+Com populacao de 100 e Crossover PMX Melhorou 315   Iniciou em 07:31:49 e terminou em 07:34:16
+Com populacao de 125 e Crossover PMX Melhorou 329   Iniciou em 07:34:16 e terminou em 07:38:04
+-----------------------------------------------------------------------------------------------
+     A melhor rota seria = 0 1 6 5 2 4 3 15 17 16 14 13 12 11 10 9 8 7; com fitness = 200
+A melhor rota encontrada = 0 5 17 15 4 6 13 7 9 8 10 12 11 14 1 2 3 16; com fitness = 316
+Geração 252
+Crossover PMX
+Teste com tamanho de população 75
+-----------------------------------------------------------------------------------------------
+Com populacao de 25 e Crossover OX Melhorou 151   Iniciou em 07:38:04 e terminou em 07:38:15
+Com populacao de 50 e Crossover OX Melhorou 271   Iniciou em 07:38:15 e terminou em 07:38:53
+Com populacao de 75 e Crossover OX Melhorou 298   Iniciou em 07:38:53 e terminou em 07:40:16
+Com populacao de 100 e Crossover OX Melhorou 326   Iniciou em 07:40:16 e terminou em 07:42:42
+Com populacao de 125 e Crossover OX Melhorou 361   Iniciou em 07:42:42 e terminou em 07:46:35
+Com populacao de 25 e Crossover PMX Melhorou 150   Iniciou em 07:46:35 e terminou em 07:46:45
+Com populacao de 50 e Crossover PMX Melhorou 268   Iniciou em 07:46:45 e terminou em 07:47:23
+Com populacao de 75 e Crossover PMX Melhorou 309   Iniciou em 07:47:23 e terminou em 07:48:46
+Com populacao de 100 e Crossover PMX Melhorou 349   Iniciou em 07:48:46 e terminou em 07:51:13
+Com populacao de 125 e Crossover PMX Melhorou 351   Iniciou em 07:51:13 e terminou em 07:55:02
+-----------------------------------------------------------------------------------------------
+     A melhor rota seria = 0 1 6 5 2 4 3 15 17 16 14 13 12 11 10 9 8 7; com fitness = 200
+A melhor rota encontrada = 11 6 8 5 4 2 16 0 15 7 10 1 12 3 14 17 9 13; com fitness = 327
+Geração 820
+Crossover OX
+Teste com tamanho de população 75
+-----------------------------------------------------------------------------------------------

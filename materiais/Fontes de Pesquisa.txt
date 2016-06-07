@@ -1,0 +1,23 @@
+Código do Sistema no GitHub - https://github.com/haroldoramirez/pcvag
+Vídeo no Youtube(Isto é Matemática T07E02 O problema do Caixeiro Viajante)- https://www.youtube.com/watch?v=_vKMyRj855A
+Fonte do Caixeiro Viajante - http://www.vivaolinux.com.br/script/Algoritmo-genetico-rotas
+http://www.mat.ufrgs.br/~portosil/caixeiro.html
+Universidade Federal Fluminence: http://www.uff.br/sintoniamatematica/grandestemaseproblemas/grandestemaseproblemas-html/audio-caixeiro-br.html
+Aula Slide - https://www.youtube.com/watch?v=H88z07wzOAs
+
+http://www.ufpi.br/subsiteFiles/ercemapi/arquivos/files/artigos/pos/pg6.pdf
+ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/ia707_01/topico6_01.pdf
+http://www.inf.ufes.br/~crangel/Algoritmos_Geneticos-Romulo.pdf
+http://www.abepro.org.br/biblioteca/enegep2006_tr460314_7093.pdf
+
+https://sites.google.com/site/tecprojalgoritmos/tecnicas-de-projetos/heuristicas
+Artigo de Heurística e PCV - http://www.inf.ufpr.br/alexd/abh/abh1.pdf
+
+Artigos
+http://www.livrosgratis.com.br/arquivos_livros/cp058666.pdf
+
+
+Explica algoritmos genéticos: http://www.obitko.com/tutorials/genetic-algorithms/portuguese/index.php
+
+Algoritmo genético da universidade federal do Rio de Janeiro: http://www.nce.ufrj.br/GINAPE/VIDA/alggenet.htm
+
